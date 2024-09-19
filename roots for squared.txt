@@ -28,3 +28,6 @@ else:
     else:
         x = c/b
         print('X = ', x)
+
+
+///no drift no fun
